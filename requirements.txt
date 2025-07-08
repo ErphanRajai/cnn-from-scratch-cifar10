@@ -1,0 +1,9 @@
+## 📌 Requirements
+
+- Python ≥ 3.8
+- PyTorch ≥ 2.0
+- torchvision
+- matplotlib
+
+```bash
+pip install torch torchvision matplotlib
